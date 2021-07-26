@@ -1,0 +1,23 @@
+@import '_variables';
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Patrick Hand', sans-serif;
+	font-size: 16px;
+	color: $primary;
+	line-height: 1;
+	min-width: 320px;
+	#__nuxt {
+		transition: opacity 0.3s ease;
+	}
+	#__nuxt[data-server-rendered] {
+		opacity: 0;
+	}
+}
