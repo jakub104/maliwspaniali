@@ -27,7 +27,7 @@ export default {
   plugins: [
     {
       src: '~/plugins/fragment.js',
-      ssr: false,
+      ssr: true,
     },
   ],
 
