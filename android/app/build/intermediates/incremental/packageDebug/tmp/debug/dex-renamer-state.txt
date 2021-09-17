@@ -1,4 +1,4 @@
-#Fri Sep 17 10:09:42 CEST 2021
+#Fri Sep 17 11:29:42 CEST 2021
 base.0=C\:\\Users\\jakub\\Desktop\\PROGRAMOWANIE\\` Mali Wspaniali `\\mali-wspaniali-twd\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

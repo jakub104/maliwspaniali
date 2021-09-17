@@ -2867,35 +2867,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background pl.maliwspaniali:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit pl.maliwspaniali:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked pl.maliwspaniali:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd pl.maliwspaniali:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions pl.maliwspaniali:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft pl.maliwspaniali:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight pl.maliwspaniali:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart pl.maliwspaniali:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation pl.maliwspaniali:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout pl.maliwspaniali:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions pl.maliwspaniali:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider pl.maliwspaniali:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation pl.maliwspaniali:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height pl.maliwspaniali:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll pl.maliwspaniali:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator pl.maliwspaniali:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout pl.maliwspaniali:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon pl.maliwspaniali:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle pl.maliwspaniali:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding pl.maliwspaniali:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo pl.maliwspaniali:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode pl.maliwspaniali:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme pl.maliwspaniali:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding pl.maliwspaniali:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle pl.maliwspaniali:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle pl.maliwspaniali:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle pl.maliwspaniali:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title pl.maliwspaniali:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle pl.maliwspaniali:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background pl.maliwspaniali.app:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit pl.maliwspaniali.app:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked pl.maliwspaniali.app:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd pl.maliwspaniali.app:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions pl.maliwspaniali.app:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft pl.maliwspaniali.app:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight pl.maliwspaniali.app:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart pl.maliwspaniali.app:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation pl.maliwspaniali.app:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout pl.maliwspaniali.app:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions pl.maliwspaniali.app:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider pl.maliwspaniali.app:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation pl.maliwspaniali.app:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height pl.maliwspaniali.app:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll pl.maliwspaniali.app:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator pl.maliwspaniali.app:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout pl.maliwspaniali.app:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon pl.maliwspaniali.app:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle pl.maliwspaniali.app:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding pl.maliwspaniali.app:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo pl.maliwspaniali.app:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode pl.maliwspaniali.app:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme pl.maliwspaniali.app:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding pl.maliwspaniali.app:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle pl.maliwspaniali.app:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle pl.maliwspaniali.app:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle pl.maliwspaniali.app:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title pl.maliwspaniali.app:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle pl.maliwspaniali.app:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -2938,7 +2938,7 @@ public final class R {
       0x7f0200eb
     };
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#background}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2946,11 +2946,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:background
+     * @attr name pl.maliwspaniali.app:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2961,11 +2961,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:backgroundSplit
+     * @attr name pl.maliwspaniali.app:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2976,11 +2976,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:backgroundStacked
+     * @attr name pl.maliwspaniali.app:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2989,11 +2989,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetEnd
+     * @attr name pl.maliwspaniali.app:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3002,11 +3002,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetEndWithActions
+     * @attr name pl.maliwspaniali.app:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3015,11 +3015,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetLeft
+     * @attr name pl.maliwspaniali.app:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3028,11 +3028,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetRight
+     * @attr name pl.maliwspaniali.app:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3041,11 +3041,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetStart
+     * @attr name pl.maliwspaniali.app:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3054,11 +3054,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetStartWithNavigation
+     * @attr name pl.maliwspaniali.app:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3066,11 +3066,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:customNavigationLayout
+     * @attr name pl.maliwspaniali.app:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -3088,11 +3088,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:displayOptions
+     * @attr name pl.maliwspaniali.app:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#divider}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3100,11 +3100,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:divider
+     * @attr name pl.maliwspaniali.app:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3113,11 +3113,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:elevation
+     * @attr name pl.maliwspaniali.app:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#height}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3126,21 +3126,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:height
+     * @attr name pl.maliwspaniali.app:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:hideOnContentScroll
+     * @attr name pl.maliwspaniali.app:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3148,11 +3148,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:homeAsUpIndicator
+     * @attr name pl.maliwspaniali.app:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3160,11 +3160,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:homeLayout
+     * @attr name pl.maliwspaniali.app:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#icon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3172,11 +3172,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:icon
+     * @attr name pl.maliwspaniali.app:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3184,11 +3184,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:indeterminateProgressStyle
+     * @attr name pl.maliwspaniali.app:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3197,11 +3197,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:itemPadding
+     * @attr name pl.maliwspaniali.app:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#logo}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3209,11 +3209,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:logo
+     * @attr name pl.maliwspaniali.app:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3227,11 +3227,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:navigationMode
+     * @attr name pl.maliwspaniali.app:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3239,11 +3239,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:popupTheme
+     * @attr name pl.maliwspaniali.app:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3252,11 +3252,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:progressBarPadding
+     * @attr name pl.maliwspaniali.app:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3264,21 +3264,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:progressBarStyle
+     * @attr name pl.maliwspaniali.app:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:subtitle
+     * @attr name pl.maliwspaniali.app:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3286,21 +3286,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:subtitleTextStyle
+     * @attr name pl.maliwspaniali.app:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#title}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:title
+     * @attr name pl.maliwspaniali.app:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3308,7 +3308,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:titleTextStyle
+     * @attr name pl.maliwspaniali.app:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -3390,12 +3390,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background pl.maliwspaniali:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit pl.maliwspaniali:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout pl.maliwspaniali:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height pl.maliwspaniali:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle pl.maliwspaniali:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle pl.maliwspaniali:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background pl.maliwspaniali.app:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit pl.maliwspaniali.app:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout pl.maliwspaniali.app:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height pl.maliwspaniali.app:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle pl.maliwspaniali.app:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle pl.maliwspaniali.app:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -3409,7 +3409,7 @@ public final class R {
       0x7f0200c7, 0x7f0200eb
     };
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#background}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3417,11 +3417,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:background
+     * @attr name pl.maliwspaniali.app:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3432,11 +3432,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:backgroundSplit
+     * @attr name pl.maliwspaniali.app:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3444,11 +3444,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:closeItemLayout
+     * @attr name pl.maliwspaniali.app:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#height}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3457,11 +3457,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:height
+     * @attr name pl.maliwspaniali.app:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3469,11 +3469,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:subtitleTextStyle
+     * @attr name pl.maliwspaniali.app:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3481,7 +3481,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:titleTextStyle
+     * @attr name pl.maliwspaniali.app:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -3491,8 +3491,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable pl.maliwspaniali:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount pl.maliwspaniali:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable pl.maliwspaniali.app:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount pl.maliwspaniali.app:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -3501,7 +3501,7 @@ public final class R {
       0x7f02006e, 0x7f020085
     };
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3509,17 +3509,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:expandActivityOverflowButtonDrawable
+     * @attr name pl.maliwspaniali.app:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:initialActivityCount
+     * @attr name pl.maliwspaniali.app:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -3530,12 +3530,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout pl.maliwspaniali:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout pl.maliwspaniali:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout pl.maliwspaniali:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout pl.maliwspaniali:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle pl.maliwspaniali:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout pl.maliwspaniali:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout pl.maliwspaniali.app:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout pl.maliwspaniali.app:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout pl.maliwspaniali.app:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout pl.maliwspaniali.app:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle pl.maliwspaniali.app:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout pl.maliwspaniali.app:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -3562,7 +3562,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3570,11 +3570,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonPanelSideLayout
+     * @attr name pl.maliwspaniali.app:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3582,11 +3582,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:listItemLayout
+     * @attr name pl.maliwspaniali.app:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3594,11 +3594,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:listLayout
+     * @attr name pl.maliwspaniali.app:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3606,21 +3606,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:multiChoiceItemLayout
+     * @attr name pl.maliwspaniali.app:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:showTitle
+     * @attr name pl.maliwspaniali.app:showTitle
      */
     public static final int AlertDialog_showTitle=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3628,7 +3628,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:singleChoiceItemLayout
+     * @attr name pl.maliwspaniali.app:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=6;
     /**
@@ -3639,9 +3639,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat pl.maliwspaniali:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint pl.maliwspaniali:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode pl.maliwspaniali:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat pl.maliwspaniali.app:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint pl.maliwspaniali.app:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode pl.maliwspaniali.app:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -3667,7 +3667,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3675,22 +3675,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:srcCompat
+     * @attr name pl.maliwspaniali.app:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#tint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:tint
+     * @attr name pl.maliwspaniali.app:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3707,7 +3707,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:tintMode
+     * @attr name pl.maliwspaniali.app:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -3718,9 +3718,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark pl.maliwspaniali:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint pl.maliwspaniali:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode pl.maliwspaniali:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark pl.maliwspaniali.app:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint pl.maliwspaniali.app:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode pl.maliwspaniali.app:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -3743,7 +3743,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3751,22 +3751,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:tickMark
+     * @attr name pl.maliwspaniali.app:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:tickMarkTint
+     * @attr name pl.maliwspaniali.app:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3783,7 +3783,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:tickMarkTintMode
+     * @attr name pl.maliwspaniali.app:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -3923,13 +3923,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize pl.maliwspaniali:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize pl.maliwspaniali:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes pl.maliwspaniali:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity pl.maliwspaniali:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType pl.maliwspaniali:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily pl.maliwspaniali:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps pl.maliwspaniali:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize pl.maliwspaniali.app:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize pl.maliwspaniali.app:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes pl.maliwspaniali.app:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity pl.maliwspaniali.app:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType pl.maliwspaniali.app:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily pl.maliwspaniali.app:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps pl.maliwspaniali.app:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -3957,7 +3957,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3966,11 +3966,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:autoSizeMaxTextSize
+     * @attr name pl.maliwspaniali.app:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3979,11 +3979,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:autoSizeMinTextSize
+     * @attr name pl.maliwspaniali.app:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3991,11 +3991,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:autoSizePresetSizes
+     * @attr name pl.maliwspaniali.app:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4004,11 +4004,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:autoSizeStepGranularity
+     * @attr name pl.maliwspaniali.app:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4021,21 +4021,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:autoSizeTextType
+     * @attr name pl.maliwspaniali.app:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:fontFamily
+     * @attr name pl.maliwspaniali.app:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4045,7 +4045,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:textAllCaps
+     * @attr name pl.maliwspaniali.app:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -4057,123 +4057,123 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider pl.maliwspaniali:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground pl.maliwspaniali:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme pl.maliwspaniali:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize pl.maliwspaniali:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle pl.maliwspaniali:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle pl.maliwspaniali:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle pl.maliwspaniali:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle pl.maliwspaniali:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle pl.maliwspaniali:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme pl.maliwspaniali:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme pl.maliwspaniali:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle pl.maliwspaniali:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle pl.maliwspaniali:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance pl.maliwspaniali:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor pl.maliwspaniali:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground pl.maliwspaniali:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle pl.maliwspaniali:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable pl.maliwspaniali:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable pl.maliwspaniali:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable pl.maliwspaniali:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable pl.maliwspaniali:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable pl.maliwspaniali:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle pl.maliwspaniali:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable pl.maliwspaniali:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable pl.maliwspaniali:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground pl.maliwspaniali:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle pl.maliwspaniali:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable pl.maliwspaniali:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle pl.maliwspaniali:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle pl.maliwspaniali:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle pl.maliwspaniali:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle pl.maliwspaniali:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons pl.maliwspaniali:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle pl.maliwspaniali:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme pl.maliwspaniali:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle pl.maliwspaniali:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle pl.maliwspaniali:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle pl.maliwspaniali:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle pl.maliwspaniali:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle pl.maliwspaniali:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle pl.maliwspaniali:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle pl.maliwspaniali:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle pl.maliwspaniali:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall pl.maliwspaniali:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle pl.maliwspaniali:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle pl.maliwspaniali:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent pl.maliwspaniali:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating pl.maliwspaniali:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal pl.maliwspaniali:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated pl.maliwspaniali:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight pl.maliwspaniali:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal pl.maliwspaniali:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError pl.maliwspaniali:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary pl.maliwspaniali:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark pl.maliwspaniali:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal pl.maliwspaniali:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground pl.maliwspaniali:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding pl.maliwspaniali:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme pl.maliwspaniali:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal pl.maliwspaniali:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical pl.maliwspaniali:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle pl.maliwspaniali:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight pl.maliwspaniali:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground pl.maliwspaniali:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor pl.maliwspaniali:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle pl.maliwspaniali:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator pl.maliwspaniali:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle pl.maliwspaniali:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator pl.maliwspaniali:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog pl.maliwspaniali:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle pl.maliwspaniali:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle pl.maliwspaniali:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight pl.maliwspaniali:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge pl.maliwspaniali:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall pl.maliwspaniali:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft pl.maliwspaniali:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight pl.maliwspaniali:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground pl.maliwspaniali:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme pl.maliwspaniali:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth pl.maliwspaniali:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle pl.maliwspaniali:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle pl.maliwspaniali:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle pl.maliwspaniali:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle pl.maliwspaniali:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator pl.maliwspaniali:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall pl.maliwspaniali:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle pl.maliwspaniali:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle pl.maliwspaniali:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground pl.maliwspaniali:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless pl.maliwspaniali:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle pl.maliwspaniali:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle pl.maliwspaniali:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle pl.maliwspaniali:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu pl.maliwspaniali:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem pl.maliwspaniali:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary pl.maliwspaniali:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall pl.maliwspaniali:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader pl.maliwspaniali:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle pl.maliwspaniali:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle pl.maliwspaniali:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu pl.maliwspaniali:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem pl.maliwspaniali:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl pl.maliwspaniali:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle pl.maliwspaniali:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle pl.maliwspaniali:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor pl.maliwspaniali:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground pl.maliwspaniali:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar pl.maliwspaniali:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay pl.maliwspaniali:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay pl.maliwspaniali:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor pl.maliwspaniali:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor pl.maliwspaniali:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor pl.maliwspaniali:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor pl.maliwspaniali:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor pl.maliwspaniali:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor pl.maliwspaniali:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle pl.maliwspaniali:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider pl.maliwspaniali.app:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground pl.maliwspaniali.app:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme pl.maliwspaniali.app:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize pl.maliwspaniali.app:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle pl.maliwspaniali.app:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle pl.maliwspaniali.app:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle pl.maliwspaniali.app:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle pl.maliwspaniali.app:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle pl.maliwspaniali.app:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme pl.maliwspaniali.app:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme pl.maliwspaniali.app:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle pl.maliwspaniali.app:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle pl.maliwspaniali.app:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance pl.maliwspaniali.app:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor pl.maliwspaniali.app:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground pl.maliwspaniali.app:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle pl.maliwspaniali.app:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable pl.maliwspaniali.app:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable pl.maliwspaniali.app:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable pl.maliwspaniali.app:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable pl.maliwspaniali.app:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable pl.maliwspaniali.app:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle pl.maliwspaniali.app:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable pl.maliwspaniali.app:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable pl.maliwspaniali.app:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground pl.maliwspaniali.app:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle pl.maliwspaniali.app:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable pl.maliwspaniali.app:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle pl.maliwspaniali.app:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle pl.maliwspaniali.app:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle pl.maliwspaniali.app:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle pl.maliwspaniali.app:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons pl.maliwspaniali.app:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle pl.maliwspaniali.app:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme pl.maliwspaniali.app:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle pl.maliwspaniali.app:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle pl.maliwspaniali.app:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle pl.maliwspaniali.app:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle pl.maliwspaniali.app:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle pl.maliwspaniali.app:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle pl.maliwspaniali.app:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle pl.maliwspaniali.app:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle pl.maliwspaniali.app:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall pl.maliwspaniali.app:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle pl.maliwspaniali.app:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle pl.maliwspaniali.app:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent pl.maliwspaniali.app:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating pl.maliwspaniali.app:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal pl.maliwspaniali.app:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated pl.maliwspaniali.app:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight pl.maliwspaniali.app:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal pl.maliwspaniali.app:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError pl.maliwspaniali.app:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary pl.maliwspaniali.app:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark pl.maliwspaniali.app:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal pl.maliwspaniali.app:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground pl.maliwspaniali.app:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding pl.maliwspaniali.app:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme pl.maliwspaniali.app:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal pl.maliwspaniali.app:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical pl.maliwspaniali.app:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle pl.maliwspaniali.app:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight pl.maliwspaniali.app:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground pl.maliwspaniali.app:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor pl.maliwspaniali.app:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle pl.maliwspaniali.app:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator pl.maliwspaniali.app:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle pl.maliwspaniali.app:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator pl.maliwspaniali.app:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog pl.maliwspaniali.app:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle pl.maliwspaniali.app:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle pl.maliwspaniali.app:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight pl.maliwspaniali.app:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge pl.maliwspaniali.app:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall pl.maliwspaniali.app:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft pl.maliwspaniali.app:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight pl.maliwspaniali.app:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground pl.maliwspaniali.app:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme pl.maliwspaniali.app:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth pl.maliwspaniali.app:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle pl.maliwspaniali.app:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle pl.maliwspaniali.app:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle pl.maliwspaniali.app:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle pl.maliwspaniali.app:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator pl.maliwspaniali.app:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall pl.maliwspaniali.app:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle pl.maliwspaniali.app:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle pl.maliwspaniali.app:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground pl.maliwspaniali.app:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless pl.maliwspaniali.app:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle pl.maliwspaniali.app:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle pl.maliwspaniali.app:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle pl.maliwspaniali.app:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu pl.maliwspaniali.app:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem pl.maliwspaniali.app:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary pl.maliwspaniali.app:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall pl.maliwspaniali.app:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader pl.maliwspaniali.app:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle pl.maliwspaniali.app:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle pl.maliwspaniali.app:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu pl.maliwspaniali.app:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem pl.maliwspaniali.app:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl pl.maliwspaniali.app:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle pl.maliwspaniali.app:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle pl.maliwspaniali.app:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor pl.maliwspaniali.app:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground pl.maliwspaniali.app:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar pl.maliwspaniali.app:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay pl.maliwspaniali.app:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay pl.maliwspaniali.app:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor pl.maliwspaniali.app:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor pl.maliwspaniali.app:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor pl.maliwspaniali.app:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor pl.maliwspaniali.app:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor pl.maliwspaniali.app:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor pl.maliwspaniali.app:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle pl.maliwspaniali.app:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -4350,7 +4350,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4358,11 +4358,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarDivider
+     * @attr name pl.maliwspaniali.app:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4370,11 +4370,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarItemBackground
+     * @attr name pl.maliwspaniali.app:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4382,11 +4382,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarPopupTheme
+     * @attr name pl.maliwspaniali.app:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4403,11 +4403,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:actionBarSize
+     * @attr name pl.maliwspaniali.app:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4415,11 +4415,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarSplitStyle
+     * @attr name pl.maliwspaniali.app:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4427,11 +4427,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarStyle
+     * @attr name pl.maliwspaniali.app:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4439,11 +4439,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarTabBarStyle
+     * @attr name pl.maliwspaniali.app:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4451,11 +4451,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarTabStyle
+     * @attr name pl.maliwspaniali.app:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4463,11 +4463,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarTabTextStyle
+     * @attr name pl.maliwspaniali.app:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4475,11 +4475,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarTheme
+     * @attr name pl.maliwspaniali.app:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4487,11 +4487,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionBarWidgetTheme
+     * @attr name pl.maliwspaniali.app:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4499,11 +4499,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionButtonStyle
+     * @attr name pl.maliwspaniali.app:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4511,11 +4511,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionDropDownStyle
+     * @attr name pl.maliwspaniali.app:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4523,11 +4523,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionMenuTextAppearance
+     * @attr name pl.maliwspaniali.app:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4538,11 +4538,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionMenuTextColor
+     * @attr name pl.maliwspaniali.app:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4550,11 +4550,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeBackground
+     * @attr name pl.maliwspaniali.app:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4562,11 +4562,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeCloseButtonStyle
+     * @attr name pl.maliwspaniali.app:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4574,11 +4574,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeCloseDrawable
+     * @attr name pl.maliwspaniali.app:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4586,11 +4586,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeCopyDrawable
+     * @attr name pl.maliwspaniali.app:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4598,11 +4598,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeCutDrawable
+     * @attr name pl.maliwspaniali.app:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4610,11 +4610,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeFindDrawable
+     * @attr name pl.maliwspaniali.app:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4622,11 +4622,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModePasteDrawable
+     * @attr name pl.maliwspaniali.app:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4634,11 +4634,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModePopupWindowStyle
+     * @attr name pl.maliwspaniali.app:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4646,11 +4646,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeSelectAllDrawable
+     * @attr name pl.maliwspaniali.app:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4658,11 +4658,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeShareDrawable
+     * @attr name pl.maliwspaniali.app:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4670,11 +4670,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeSplitBackground
+     * @attr name pl.maliwspaniali.app:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4682,11 +4682,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeStyle
+     * @attr name pl.maliwspaniali.app:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4694,11 +4694,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionModeWebSearchDrawable
+     * @attr name pl.maliwspaniali.app:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4706,11 +4706,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionOverflowButtonStyle
+     * @attr name pl.maliwspaniali.app:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4718,11 +4718,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionOverflowMenuStyle
+     * @attr name pl.maliwspaniali.app:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4730,11 +4730,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:activityChooserViewStyle
+     * @attr name pl.maliwspaniali.app:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4742,21 +4742,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:alertDialogButtonGroupStyle
+     * @attr name pl.maliwspaniali.app:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:alertDialogCenterButtons
+     * @attr name pl.maliwspaniali.app:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4764,11 +4764,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:alertDialogStyle
+     * @attr name pl.maliwspaniali.app:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4776,11 +4776,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:alertDialogTheme
+     * @attr name pl.maliwspaniali.app:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4788,11 +4788,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:autoCompleteTextViewStyle
+     * @attr name pl.maliwspaniali.app:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4800,11 +4800,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:borderlessButtonStyle
+     * @attr name pl.maliwspaniali.app:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4812,11 +4812,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonBarButtonStyle
+     * @attr name pl.maliwspaniali.app:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4824,11 +4824,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonBarNegativeButtonStyle
+     * @attr name pl.maliwspaniali.app:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4836,11 +4836,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonBarNeutralButtonStyle
+     * @attr name pl.maliwspaniali.app:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4848,11 +4848,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonBarPositiveButtonStyle
+     * @attr name pl.maliwspaniali.app:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4860,11 +4860,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonBarStyle
+     * @attr name pl.maliwspaniali.app:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4872,11 +4872,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonStyle
+     * @attr name pl.maliwspaniali.app:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4884,11 +4884,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonStyleSmall
+     * @attr name pl.maliwspaniali.app:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4896,11 +4896,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:checkboxStyle
+     * @attr name pl.maliwspaniali.app:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4908,77 +4908,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:checkedTextViewStyle
+     * @attr name pl.maliwspaniali.app:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorAccent
+     * @attr name pl.maliwspaniali.app:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorBackgroundFloating
+     * @attr name pl.maliwspaniali.app:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorButtonNormal
+     * @attr name pl.maliwspaniali.app:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorControlActivated
+     * @attr name pl.maliwspaniali.app:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorControlHighlight
+     * @attr name pl.maliwspaniali.app:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorControlNormal
+     * @attr name pl.maliwspaniali.app:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4989,44 +4989,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorError
+     * @attr name pl.maliwspaniali.app:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorPrimary
+     * @attr name pl.maliwspaniali.app:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorPrimaryDark
+     * @attr name pl.maliwspaniali.app:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:colorSwitchThumbNormal
+     * @attr name pl.maliwspaniali.app:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5034,11 +5034,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:controlBackground
+     * @attr name pl.maliwspaniali.app:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5047,11 +5047,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:dialogPreferredPadding
+     * @attr name pl.maliwspaniali.app:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5059,11 +5059,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:dialogTheme
+     * @attr name pl.maliwspaniali.app:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5071,11 +5071,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:dividerHorizontal
+     * @attr name pl.maliwspaniali.app:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5083,11 +5083,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:dividerVertical
+     * @attr name pl.maliwspaniali.app:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5095,11 +5095,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:dropDownListViewStyle
+     * @attr name pl.maliwspaniali.app:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5108,11 +5108,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:dropdownListPreferredItemHeight
+     * @attr name pl.maliwspaniali.app:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5120,11 +5120,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:editTextBackground
+     * @attr name pl.maliwspaniali.app:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5135,11 +5135,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:editTextColor
+     * @attr name pl.maliwspaniali.app:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5147,11 +5147,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:editTextStyle
+     * @attr name pl.maliwspaniali.app:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5159,11 +5159,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:homeAsUpIndicator
+     * @attr name pl.maliwspaniali.app:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5171,11 +5171,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:imageButtonStyle
+     * @attr name pl.maliwspaniali.app:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5183,11 +5183,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:listChoiceBackgroundIndicator
+     * @attr name pl.maliwspaniali.app:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5195,11 +5195,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:listDividerAlertDialog
+     * @attr name pl.maliwspaniali.app:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5207,11 +5207,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:listMenuViewStyle
+     * @attr name pl.maliwspaniali.app:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5219,11 +5219,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:listPopupWindowStyle
+     * @attr name pl.maliwspaniali.app:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5232,11 +5232,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:listPreferredItemHeight
+     * @attr name pl.maliwspaniali.app:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5245,11 +5245,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:listPreferredItemHeightLarge
+     * @attr name pl.maliwspaniali.app:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5258,11 +5258,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:listPreferredItemHeightSmall
+     * @attr name pl.maliwspaniali.app:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5271,11 +5271,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:listPreferredItemPaddingLeft
+     * @attr name pl.maliwspaniali.app:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5284,11 +5284,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:listPreferredItemPaddingRight
+     * @attr name pl.maliwspaniali.app:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5296,11 +5296,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:panelBackground
+     * @attr name pl.maliwspaniali.app:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5308,11 +5308,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:panelMenuListTheme
+     * @attr name pl.maliwspaniali.app:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5321,11 +5321,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:panelMenuListWidth
+     * @attr name pl.maliwspaniali.app:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5333,11 +5333,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:popupMenuStyle
+     * @attr name pl.maliwspaniali.app:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5345,11 +5345,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:popupWindowStyle
+     * @attr name pl.maliwspaniali.app:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5357,11 +5357,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:radioButtonStyle
+     * @attr name pl.maliwspaniali.app:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5369,11 +5369,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:ratingBarStyle
+     * @attr name pl.maliwspaniali.app:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5381,11 +5381,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:ratingBarStyleIndicator
+     * @attr name pl.maliwspaniali.app:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5393,11 +5393,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:ratingBarStyleSmall
+     * @attr name pl.maliwspaniali.app:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5405,11 +5405,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:searchViewStyle
+     * @attr name pl.maliwspaniali.app:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5417,11 +5417,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:seekBarStyle
+     * @attr name pl.maliwspaniali.app:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5429,11 +5429,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:selectableItemBackground
+     * @attr name pl.maliwspaniali.app:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5441,11 +5441,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:selectableItemBackgroundBorderless
+     * @attr name pl.maliwspaniali.app:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5453,11 +5453,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:spinnerDropDownItemStyle
+     * @attr name pl.maliwspaniali.app:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5465,11 +5465,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:spinnerStyle
+     * @attr name pl.maliwspaniali.app:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5477,11 +5477,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:switchStyle
+     * @attr name pl.maliwspaniali.app:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5489,11 +5489,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:textAppearanceLargePopupMenu
+     * @attr name pl.maliwspaniali.app:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5501,11 +5501,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:textAppearanceListItem
+     * @attr name pl.maliwspaniali.app:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5513,11 +5513,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:textAppearanceListItemSecondary
+     * @attr name pl.maliwspaniali.app:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5525,11 +5525,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:textAppearanceListItemSmall
+     * @attr name pl.maliwspaniali.app:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5537,11 +5537,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:textAppearancePopupMenuHeader
+     * @attr name pl.maliwspaniali.app:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5549,11 +5549,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:textAppearanceSearchResultSubtitle
+     * @attr name pl.maliwspaniali.app:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5561,11 +5561,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:textAppearanceSearchResultTitle
+     * @attr name pl.maliwspaniali.app:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5573,11 +5573,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:textAppearanceSmallPopupMenu
+     * @attr name pl.maliwspaniali.app:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5588,11 +5588,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:textColorAlertDialogListItem
+     * @attr name pl.maliwspaniali.app:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5603,11 +5603,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:textColorSearchUrl
+     * @attr name pl.maliwspaniali.app:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5615,11 +5615,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:toolbarNavigationButtonStyle
+     * @attr name pl.maliwspaniali.app:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5627,11 +5627,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:toolbarStyle
+     * @attr name pl.maliwspaniali.app:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5642,11 +5642,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:tooltipForegroundColor
+     * @attr name pl.maliwspaniali.app:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5654,41 +5654,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:tooltipFrameBackground
+     * @attr name pl.maliwspaniali.app:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:windowActionBar
+     * @attr name pl.maliwspaniali.app:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=109;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:windowActionBarOverlay
+     * @attr name pl.maliwspaniali.app:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=110;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:windowActionModeOverlay
+     * @attr name pl.maliwspaniali.app:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5701,11 +5701,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name pl.maliwspaniali:windowFixedHeightMajor
+     * @attr name pl.maliwspaniali.app:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=112;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5718,11 +5718,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name pl.maliwspaniali:windowFixedHeightMinor
+     * @attr name pl.maliwspaniali.app:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=113;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5735,11 +5735,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name pl.maliwspaniali:windowFixedWidthMajor
+     * @attr name pl.maliwspaniali.app:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5752,11 +5752,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name pl.maliwspaniali:windowFixedWidthMinor
+     * @attr name pl.maliwspaniali.app:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5769,11 +5769,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name pl.maliwspaniali:windowMinWidthMajor
+     * @attr name pl.maliwspaniali.app:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5786,17 +5786,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name pl.maliwspaniali:windowMinWidthMinor
+     * @attr name pl.maliwspaniali.app:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:windowNoTitle
+     * @attr name pl.maliwspaniali.app:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=118;
     /**
@@ -5806,7 +5806,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking pl.maliwspaniali:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking pl.maliwspaniali.app:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -5814,13 +5814,13 @@ public final class R {
       0x7f020026
     };
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:allowStacking
+     * @attr name pl.maliwspaniali.app:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -5832,7 +5832,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha pl.maliwspaniali:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha pl.maliwspaniali.app:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -5862,12 +5862,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name pl.maliwspaniali:alpha
+     * @attr name pl.maliwspaniali.app:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -5878,8 +5878,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint pl.maliwspaniali:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode pl.maliwspaniali:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint pl.maliwspaniali.app:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode pl.maliwspaniali.app:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -5901,18 +5901,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:buttonTint
+     * @attr name pl.maliwspaniali.app:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5929,7 +5929,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:buttonTintMode
+     * @attr name pl.maliwspaniali.app:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -5939,14 +5939,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength pl.maliwspaniali:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength pl.maliwspaniali:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength pl.maliwspaniali:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color pl.maliwspaniali:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize pl.maliwspaniali:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars pl.maliwspaniali:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars pl.maliwspaniali:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness pl.maliwspaniali:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength pl.maliwspaniali.app:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength pl.maliwspaniali.app:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength pl.maliwspaniali.app:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color pl.maliwspaniali.app:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize pl.maliwspaniali.app:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars pl.maliwspaniali.app:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars pl.maliwspaniali.app:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness pl.maliwspaniali.app:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -5962,7 +5962,7 @@ public final class R {
       0x7f020066, 0x7f020079, 0x7f0200bc, 0x7f0200d9
     };
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5971,11 +5971,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:arrowHeadLength
+     * @attr name pl.maliwspaniali.app:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5984,11 +5984,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:arrowShaftLength
+     * @attr name pl.maliwspaniali.app:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5997,22 +5997,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:barLength
+     * @attr name pl.maliwspaniali.app:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#color}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:color
+     * @attr name pl.maliwspaniali.app:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6021,11 +6021,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:drawableSize
+     * @attr name pl.maliwspaniali.app:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6034,21 +6034,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:gapBetweenBars
+     * @attr name pl.maliwspaniali.app:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:spinBars
+     * @attr name pl.maliwspaniali.app:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6057,7 +6057,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:thickness
+     * @attr name pl.maliwspaniali.app:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -6067,12 +6067,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority pl.maliwspaniali:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts pl.maliwspaniali:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy pl.maliwspaniali:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout pl.maliwspaniali:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage pl.maliwspaniali:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery pl.maliwspaniali:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority pl.maliwspaniali.app:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts pl.maliwspaniali.app:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy pl.maliwspaniali.app:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout pl.maliwspaniali.app:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage pl.maliwspaniali.app:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery pl.maliwspaniali.app:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -6086,17 +6086,17 @@ public final class R {
       0x7f020075, 0x7f020076
     };
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:fontProviderAuthority
+     * @attr name pl.maliwspaniali.app:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6104,11 +6104,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:fontProviderCerts
+     * @attr name pl.maliwspaniali.app:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6121,11 +6121,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:fontProviderFetchStrategy
+     * @attr name pl.maliwspaniali.app:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -6138,27 +6138,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:fontProviderFetchTimeout
+     * @attr name pl.maliwspaniali.app:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:fontProviderPackage
+     * @attr name pl.maliwspaniali.app:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:fontProviderQuery
+     * @attr name pl.maliwspaniali.app:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -6171,9 +6171,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font pl.maliwspaniali:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle pl.maliwspaniali:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight pl.maliwspaniali:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font pl.maliwspaniali.app:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle pl.maliwspaniali.app:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight pl.maliwspaniali.app:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -6225,7 +6225,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#font}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6233,11 +6233,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:font
+     * @attr name pl.maliwspaniali.app:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6250,16 +6250,16 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:fontStyle
+     * @attr name pl.maliwspaniali.app:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name pl.maliwspaniali:fontWeight
+     * @attr name pl.maliwspaniali.app:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
@@ -6274,10 +6274,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider pl.maliwspaniali:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding pl.maliwspaniali:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild pl.maliwspaniali:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers pl.maliwspaniali:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider pl.maliwspaniali.app:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding pl.maliwspaniali.app:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild pl.maliwspaniali.app:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers pl.maliwspaniali.app:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -6369,7 +6369,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#divider}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6377,11 +6377,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:divider
+     * @attr name pl.maliwspaniali.app:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6390,21 +6390,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:dividerPadding
+     * @attr name pl.maliwspaniali.app:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:measureWithLargestChild
+     * @attr name pl.maliwspaniali.app:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6419,7 +6419,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:showDividers
+     * @attr name pl.maliwspaniali.app:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -6691,16 +6691,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout pl.maliwspaniali:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass pl.maliwspaniali:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass pl.maliwspaniali:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers pl.maliwspaniali:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription pl.maliwspaniali:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint pl.maliwspaniali:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode pl.maliwspaniali:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers pl.maliwspaniali:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction pl.maliwspaniali:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText pl.maliwspaniali:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout pl.maliwspaniali.app:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass pl.maliwspaniali.app:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass pl.maliwspaniali.app:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers pl.maliwspaniali.app:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription pl.maliwspaniali.app:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint pl.maliwspaniali.app:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode pl.maliwspaniali.app:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers pl.maliwspaniali.app:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction pl.maliwspaniali.app:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText pl.maliwspaniali.app:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -6877,7 +6877,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6885,31 +6885,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:actionLayout
+     * @attr name pl.maliwspaniali.app:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:actionProviderClass
+     * @attr name pl.maliwspaniali.app:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:actionViewClass
+     * @attr name pl.maliwspaniali.app:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6926,32 +6926,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:alphabeticModifiers
+     * @attr name pl.maliwspaniali.app:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:contentDescription
+     * @attr name pl.maliwspaniali.app:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:iconTint
+     * @attr name pl.maliwspaniali.app:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6968,11 +6968,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:iconTintMode
+     * @attr name pl.maliwspaniali.app:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -6989,11 +6989,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:numericModifiers
+     * @attr name pl.maliwspaniali.app:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7009,17 +7009,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:showAsAction
+     * @attr name pl.maliwspaniali.app:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:tooltipText
+     * @attr name pl.maliwspaniali.app:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -7036,8 +7036,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing pl.maliwspaniali:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow pl.maliwspaniali:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing pl.maliwspaniali.app:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow pl.maliwspaniali.app:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -7142,17 +7142,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:preserveIconSpacing
+     * @attr name pl.maliwspaniali.app:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7160,7 +7160,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:subMenuArrow
+     * @attr name pl.maliwspaniali.app:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -7172,7 +7172,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor pl.maliwspaniali:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor pl.maliwspaniali.app:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -7209,13 +7209,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:overlapAnchor
+     * @attr name pl.maliwspaniali.app:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -7225,7 +7225,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor pl.maliwspaniali:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor pl.maliwspaniali.app:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -7233,13 +7233,13 @@ public final class R {
       0x7f0200c1
     };
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:state_above_anchor
+     * @attr name pl.maliwspaniali.app:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -7249,8 +7249,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons pl.maliwspaniali:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle pl.maliwspaniali:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons pl.maliwspaniali.app:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle pl.maliwspaniali.app:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -7259,7 +7259,7 @@ public final class R {
       0x7f02009e, 0x7f0200a1
     };
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7268,11 +7268,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:paddingBottomNoButtons
+     * @attr name pl.maliwspaniali.app:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7281,7 +7281,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:paddingTopNoTitle
+     * @attr name pl.maliwspaniali.app:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -7295,19 +7295,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon pl.maliwspaniali:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon pl.maliwspaniali:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint pl.maliwspaniali:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon pl.maliwspaniali:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault pl.maliwspaniali:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout pl.maliwspaniali:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground pl.maliwspaniali:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint pl.maliwspaniali:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon pl.maliwspaniali:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon pl.maliwspaniali:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground pl.maliwspaniali:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout pl.maliwspaniali:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon pl.maliwspaniali:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon pl.maliwspaniali.app:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon pl.maliwspaniali.app:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint pl.maliwspaniali.app:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon pl.maliwspaniali.app:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault pl.maliwspaniali.app:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout pl.maliwspaniali.app:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground pl.maliwspaniali.app:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint pl.maliwspaniali.app:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon pl.maliwspaniali.app:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon pl.maliwspaniali.app:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground pl.maliwspaniali.app:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout pl.maliwspaniali.app:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon pl.maliwspaniali.app:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -7445,7 +7445,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7453,11 +7453,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:closeIcon
+     * @attr name pl.maliwspaniali.app:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7465,21 +7465,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:commitIcon
+     * @attr name pl.maliwspaniali.app:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:defaultQueryHint
+     * @attr name pl.maliwspaniali.app:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7487,21 +7487,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:goIcon
+     * @attr name pl.maliwspaniali.app:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:iconifiedByDefault
+     * @attr name pl.maliwspaniali.app:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#layout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7509,11 +7509,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:layout
+     * @attr name pl.maliwspaniali.app:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7521,21 +7521,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:queryBackground
+     * @attr name pl.maliwspaniali.app:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:queryHint
+     * @attr name pl.maliwspaniali.app:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7543,11 +7543,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:searchHintIcon
+     * @attr name pl.maliwspaniali.app:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7555,11 +7555,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:searchIcon
+     * @attr name pl.maliwspaniali.app:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7567,11 +7567,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:submitBackground
+     * @attr name pl.maliwspaniali.app:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7579,11 +7579,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:suggestionRowLayout
+     * @attr name pl.maliwspaniali.app:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7591,7 +7591,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:voiceIcon
+     * @attr name pl.maliwspaniali.app:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -7605,7 +7605,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme pl.maliwspaniali:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme pl.maliwspaniali.app:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -7680,7 +7680,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7688,7 +7688,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:popupTheme
+     * @attr name pl.maliwspaniali.app:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -7701,17 +7701,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText pl.maliwspaniali:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack pl.maliwspaniali:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth pl.maliwspaniali:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding pl.maliwspaniali:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance pl.maliwspaniali:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding pl.maliwspaniali:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint pl.maliwspaniali:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode pl.maliwspaniali:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track pl.maliwspaniali:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint pl.maliwspaniali:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode pl.maliwspaniali:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText pl.maliwspaniali.app:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack pl.maliwspaniali.app:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth pl.maliwspaniali.app:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding pl.maliwspaniali.app:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance pl.maliwspaniali.app:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding pl.maliwspaniali.app:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint pl.maliwspaniali.app:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode pl.maliwspaniali.app:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track pl.maliwspaniali.app:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint pl.maliwspaniali.app:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode pl.maliwspaniali.app:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -7767,27 +7767,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#showText}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:showText
+     * @attr name pl.maliwspaniali.app:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:splitTrack
+     * @attr name pl.maliwspaniali.app:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7796,11 +7796,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:switchMinWidth
+     * @attr name pl.maliwspaniali.app:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7809,11 +7809,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:switchPadding
+     * @attr name pl.maliwspaniali.app:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7821,11 +7821,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:switchTextAppearance
+     * @attr name pl.maliwspaniali.app:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7834,22 +7834,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:thumbTextPadding
+     * @attr name pl.maliwspaniali.app:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:thumbTint
+     * @attr name pl.maliwspaniali.app:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7866,11 +7866,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:thumbTintMode
+     * @attr name pl.maliwspaniali.app:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#track}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7878,22 +7878,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:track
+     * @attr name pl.maliwspaniali.app:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:trackTint
+     * @attr name pl.maliwspaniali.app:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7910,7 +7910,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:trackTintMode
+     * @attr name pl.maliwspaniali.app:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -7931,8 +7931,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily pl.maliwspaniali:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps pl.maliwspaniali:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily pl.maliwspaniali.app:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps pl.maliwspaniali.app:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -8098,17 +8098,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:fontFamily
+     * @attr name pl.maliwspaniali.app:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8118,7 +8118,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name pl.maliwspaniali:textAllCaps
+     * @attr name pl.maliwspaniali.app:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -8130,33 +8130,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity pl.maliwspaniali:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription pl.maliwspaniali:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon pl.maliwspaniali:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd pl.maliwspaniali:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions pl.maliwspaniali:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft pl.maliwspaniali:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight pl.maliwspaniali:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart pl.maliwspaniali:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation pl.maliwspaniali:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo pl.maliwspaniali:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription pl.maliwspaniali:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight pl.maliwspaniali:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription pl.maliwspaniali:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon pl.maliwspaniali:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme pl.maliwspaniali:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle pl.maliwspaniali:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance pl.maliwspaniali:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor pl.maliwspaniali:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title pl.maliwspaniali:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin pl.maliwspaniali:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom pl.maliwspaniali:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd pl.maliwspaniali:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart pl.maliwspaniali:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop pl.maliwspaniali:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins pl.maliwspaniali:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance pl.maliwspaniali:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor pl.maliwspaniali:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity pl.maliwspaniali.app:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription pl.maliwspaniali.app:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon pl.maliwspaniali.app:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd pl.maliwspaniali.app:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions pl.maliwspaniali.app:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft pl.maliwspaniali.app:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight pl.maliwspaniali.app:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart pl.maliwspaniali.app:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation pl.maliwspaniali.app:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo pl.maliwspaniali.app:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription pl.maliwspaniali.app:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight pl.maliwspaniali.app:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription pl.maliwspaniali.app:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon pl.maliwspaniali.app:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme pl.maliwspaniali.app:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle pl.maliwspaniali.app:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance pl.maliwspaniali.app:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor pl.maliwspaniali.app:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title pl.maliwspaniali.app:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin pl.maliwspaniali.app:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom pl.maliwspaniali.app:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd pl.maliwspaniali.app:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart pl.maliwspaniali.app:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop pl.maliwspaniali.app:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins pl.maliwspaniali.app:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance pl.maliwspaniali.app:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor pl.maliwspaniali.app:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -8241,7 +8241,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8254,21 +8254,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:buttonGravity
+     * @attr name pl.maliwspaniali.app:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:collapseContentDescription
+     * @attr name pl.maliwspaniali.app:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8276,11 +8276,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:collapseIcon
+     * @attr name pl.maliwspaniali.app:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8289,11 +8289,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetEnd
+     * @attr name pl.maliwspaniali.app:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8302,11 +8302,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetEndWithActions
+     * @attr name pl.maliwspaniali.app:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8315,11 +8315,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetLeft
+     * @attr name pl.maliwspaniali.app:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8328,11 +8328,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetRight
+     * @attr name pl.maliwspaniali.app:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8341,11 +8341,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetStart
+     * @attr name pl.maliwspaniali.app:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8354,11 +8354,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:contentInsetStartWithNavigation
+     * @attr name pl.maliwspaniali.app:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#logo}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8366,21 +8366,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:logo
+     * @attr name pl.maliwspaniali.app:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:logoDescription
+     * @attr name pl.maliwspaniali.app:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8389,21 +8389,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:maxButtonHeight
+     * @attr name pl.maliwspaniali.app:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:navigationContentDescription
+     * @attr name pl.maliwspaniali.app:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8411,11 +8411,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:navigationIcon
+     * @attr name pl.maliwspaniali.app:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8423,21 +8423,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:popupTheme
+     * @attr name pl.maliwspaniali.app:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:subtitle
+     * @attr name pl.maliwspaniali.app:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8445,32 +8445,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:subtitleTextAppearance
+     * @attr name pl.maliwspaniali.app:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:subtitleTextColor
+     * @attr name pl.maliwspaniali.app:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#title}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name pl.maliwspaniali:title
+     * @attr name pl.maliwspaniali.app:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8479,11 +8479,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:titleMargin
+     * @attr name pl.maliwspaniali.app:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8492,11 +8492,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:titleMarginBottom
+     * @attr name pl.maliwspaniali.app:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8505,11 +8505,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:titleMarginEnd
+     * @attr name pl.maliwspaniali.app:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8518,11 +8518,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:titleMarginStart
+     * @attr name pl.maliwspaniali.app:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8531,11 +8531,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:titleMarginTop
+     * @attr name pl.maliwspaniali.app:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8544,11 +8544,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:titleMargins
+     * @attr name pl.maliwspaniali.app:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8556,18 +8556,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:titleTextAppearance
+     * @attr name pl.maliwspaniali.app:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:titleTextColor
+     * @attr name pl.maliwspaniali.app:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -8579,9 +8579,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd pl.maliwspaniali:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart pl.maliwspaniali:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme pl.maliwspaniali:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd pl.maliwspaniali.app:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart pl.maliwspaniali.app:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme pl.maliwspaniali.app:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -8624,7 +8624,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8633,11 +8633,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:paddingEnd
+     * @attr name pl.maliwspaniali.app:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8646,11 +8646,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name pl.maliwspaniali:paddingStart
+     * @attr name pl.maliwspaniali.app:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#theme}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8658,7 +8658,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name pl.maliwspaniali:theme
+     * @attr name pl.maliwspaniali.app:theme
      */
     public static final int View_theme=4;
     /**
@@ -8669,8 +8669,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint pl.maliwspaniali:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode pl.maliwspaniali:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint pl.maliwspaniali.app:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode pl.maliwspaniali.app:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -8695,18 +8695,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name pl.maliwspaniali:backgroundTint
+     * @attr name pl.maliwspaniali.app:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link pl.maliwspaniali.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link pl.maliwspaniali.app.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8723,7 +8723,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name pl.maliwspaniali:backgroundTintMode
+     * @attr name pl.maliwspaniali.app:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
