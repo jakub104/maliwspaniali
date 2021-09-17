@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 application
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml:25:5-58:19
-MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\customtabs-e849e45c90.aar\41158f3df336775f89b6bf4359278a79\AndroidManifest.xml:22:5-23:19
-MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\customtabs-e849e45c90.aar\41158f3df336775f89b6bf4359278a79\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\200520ad6b363e84fedb8cc9cf16ad4f\customtabs-e849e45c90\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\200520ad6b363e84fedb8cc9cf16ad4f\customtabs-e849e45c90\AndroidManifest.xml:22:5-23:19
 	android:supportsRtl
 		ADDED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml:29:9-35
 	android:label
@@ -47,17 +47,17 @@ ADDED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspanial
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml:22:1-59:12
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml:22:1-59:12
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml:22:1-59:12
-MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\customtabs-e849e45c90.aar\41158f3df336775f89b6bf4359278a79\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\edbeec7299d0e088b58123c94c44a18d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b0663e69a4f1f1c410627387284589ae\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3f63a79ea4bb282e35cb9480e377f0a4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\aed893db04017a52c14dd7a0bfc810a9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d05f282cf9f9075c2f62dff149b411e2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f736927e6b9b775128fcca1849bb622b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6cc7a8633ba039e48e8b52d9f9720568\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\16efd9e7e1298c2f58a79c20b25f7ece\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\95b4030774ed6cd2eaed72d9bddb6211\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\504a4300e3476eebfa104bbf6a0e3a54\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\200520ad6b363e84fedb8cc9cf16ad4f\customtabs-e849e45c90\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\8a1bafd3a6784dc29e2a0f1f4e2f437b\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\837d37ed317b9dade88e848b207abb6d\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\f3ab528f82c1c1ec4b0a54f9bee567ea\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\7a426a23ff8f9f9a49c8cb89cbdc301c\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\ad2586c63e1296267cad7fd6a8d318b9\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\f6991f10ae5ddcec02bf65d7d29eb785\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\fda5b9117db595323eba2bcdbe8eabe1\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\7fc65963524651aea2aee0756d485e7d\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\b10d974ba8b444faf866fc4a658ef006\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\36057acd24d8ef41985ac98e7416eb82\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml:22:1-59:12
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml:22:1-59:12
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml:22:1-59:12
@@ -79,28 +79,28 @@ uses-sdk
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml
-MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\customtabs-e849e45c90.aar\41158f3df336775f89b6bf4359278a79\AndroidManifest.xml:20:5-44
-MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\customtabs-e849e45c90.aar\41158f3df336775f89b6bf4359278a79\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\edbeec7299d0e088b58123c94c44a18d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\edbeec7299d0e088b58123c94c44a18d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b0663e69a4f1f1c410627387284589ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\b0663e69a4f1f1c410627387284589ae\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3f63a79ea4bb282e35cb9480e377f0a4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\3f63a79ea4bb282e35cb9480e377f0a4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\aed893db04017a52c14dd7a0bfc810a9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\aed893db04017a52c14dd7a0bfc810a9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d05f282cf9f9075c2f62dff149b411e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\d05f282cf9f9075c2f62dff149b411e2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f736927e6b9b775128fcca1849bb622b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\f736927e6b9b775128fcca1849bb622b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6cc7a8633ba039e48e8b52d9f9720568\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\6cc7a8633ba039e48e8b52d9f9720568\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\16efd9e7e1298c2f58a79c20b25f7ece\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\16efd9e7e1298c2f58a79c20b25f7ece\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\95b4030774ed6cd2eaed72d9bddb6211\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\95b4030774ed6cd2eaed72d9bddb6211\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\504a4300e3476eebfa104bbf6a0e3a54\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jakub\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\504a4300e3476eebfa104bbf6a0e3a54\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\200520ad6b363e84fedb8cc9cf16ad4f\customtabs-e849e45c90\AndroidManifest.xml:20:5-44
+MERGED from [com.github.GoogleChrome.custom-tabs-client:customtabs:e849e45c90] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\200520ad6b363e84fedb8cc9cf16ad4f\customtabs-e849e45c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\8a1bafd3a6784dc29e2a0f1f4e2f437b\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\8a1bafd3a6784dc29e2a0f1f4e2f437b\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\837d37ed317b9dade88e848b207abb6d\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\837d37ed317b9dade88e848b207abb6d\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\f3ab528f82c1c1ec4b0a54f9bee567ea\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\f3ab528f82c1c1ec4b0a54f9bee567ea\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\7a426a23ff8f9f9a49c8cb89cbdc301c\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\7a426a23ff8f9f9a49c8cb89cbdc301c\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\ad2586c63e1296267cad7fd6a8d318b9\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\ad2586c63e1296267cad7fd6a8d318b9\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\f6991f10ae5ddcec02bf65d7d29eb785\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\f6991f10ae5ddcec02bf65d7d29eb785\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\fda5b9117db595323eba2bcdbe8eabe1\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\fda5b9117db595323eba2bcdbe8eabe1\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\7fc65963524651aea2aee0756d485e7d\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\7fc65963524651aea2aee0756d485e7d\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\b10d974ba8b444faf866fc4a658ef006\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\b10d974ba8b444faf866fc4a658ef006\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\36057acd24d8ef41985ac98e7416eb82\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\jakub\.gradle\caches\transforms-2\files-2.1\36057acd24d8ef41985ac98e7416eb82\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\jakub\Desktop\PROGRAMOWANIE\` Mali Wspaniali `\mali-wspaniali-twd\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

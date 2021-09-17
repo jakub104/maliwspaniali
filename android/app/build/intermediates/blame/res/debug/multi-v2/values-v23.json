@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\jakub\\Desktop\\PROGRAMOWANIE\\` Mali Wspaniali `\\mali-wspaniali-twd\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jakub\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\edbeec7299d0e088b58123c94c44a18d\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\jakub\\.gradle\\caches\\transforms-2\\files-2.1\\8a1bafd3a6784dc29e2a0f1f4e2f437b\\appcompat-v7-27.0.2\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

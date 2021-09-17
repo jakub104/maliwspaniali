@@ -68,7 +68,7 @@ export default {
       // The sha256Fingerprints by is an array with one SHA-256 key string.
       // But if you have multiple you can add them to the array. More information about the website asociation:
       // https://developer.android.com/training/app-links/verify-site-associations#web-assoc
-      sha256Fingerprints: ['82:12:79:81:18:F1:86:E2:92:87:EB:88:BC:66:58:C9:21:24:90:E1:63:EC:97:5F:29:A1:33:46:8B:3A:FE:D3'],
+      sha256Fingerprints: ['B9:45:9D:DD:19:44:1D:E9:72:20:49:10:9F:3A:C8:0C:C3:8B:D2:F4:EB:3C:D8:A8:F4:59:CE:F9:98:B0:75:96'],
       /* optional */
       /* overwrite default location for icon */
       iconPath: '/static/icon.png',
