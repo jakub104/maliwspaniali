@@ -20,7 +20,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    '@/styles/global.scss',
+    '@/assets/styles/global.scss',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -56,6 +56,25 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     '@nuxtjs/style-resources',
+    ['nuxt-twa-module', {
+      /* module options */
+      defaultUrl: 'https://maliwspaniali.pl',
+      hostName: 'maliwspaniali.pl',
+      applicationId: 'pl.maliwspaniali.app',
+      launcherName: 'Mali wspaniali',
+      versionCode: 1,
+      versionName: '1.0',
+      statusBarColor: '#ffffff',
+      // The sha256Fingerprints by is an array with one SHA-256 key string.
+      // But if you have multiple you can add them to the array. More information about the website asociation:
+      // https://developer.android.com/training/app-links/verify-site-associations#web-assoc
+      sha256Fingerprints: ['82:12:79:81:18:F1:86:E2:92:87:EB:88:BC:66:58:C9:21:24:90:E1:63:EC:97:5F:29:A1:33:46:8B:3A:FE:D3'],
+      /* optional */
+      /* overwrite default location for icon */
+      iconPath: '/static/icon.png',
+      /* Overwrite folder where to put .wellknown */
+      distFolder: '.nuxt/dist/client',
+    }],
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -84,7 +103,7 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     styleResources: {
-      scss: './styles/_*.scss',
+      scss: './assets/styles/_*.scss',
     },
     extractCSS: true,
   },

@@ -1,0 +1,9 @@
+[{
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target": {
+		"namespace": "android_app",
+		"package_name": "pl.maliwspaniali.app",
+		"sha256_cert_fingerprints":
+		["82:12:79:81:18:F1:86:E2:92:87:EB:88:BC:66:58:C9:21:24:90:E1:63:EC:97:5F:29:A1:33:46:8B:3A:FE:D3"]
+	}
+}]

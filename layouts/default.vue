@@ -20,11 +20,6 @@
 <script>
 	export default {
 		name: "default",
-		data() {
-			return {
-				
-			}
-		},
 		methods: {
 			call() {
 				window.open('tel:603792353')
